@@ -15,6 +15,5 @@ La automatización de tareas con robots industriales es clave para mejorar la ef
 
 ## 1. Abrir el software Epson RC+ 7.0
 
-![image](https://github.com/user-attachments/assets/1472b7ba-4cdc-4da6-9c21-6c9be5c544cf)
-
+![image](https://github.com/user-attachments/assets/a286b63c-20e1-4825-8391-4fff00e6d37c)
 
